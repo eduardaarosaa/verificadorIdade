@@ -20,3 +20,16 @@ footer{
     text-align: center;
 
 }
+
+#msg{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+    padding: 6%;
+
+}
+img{
+    border-radius: 40%;
+}
