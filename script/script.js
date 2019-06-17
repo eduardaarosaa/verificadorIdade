@@ -36,7 +36,7 @@ function verificar() {
             }
         }
         // res.style.textAlign = 'center' esse comando deixa o texto centralizado pelo js
-        res.innerHTML = `Detectamos ${genero} com a ${idade}`
+        res.innerHTML = `Detectamos ${genero} com  ${idade} anos.`
         res.appendChild(img)
     }
 }
